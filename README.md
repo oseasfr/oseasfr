@@ -7,4 +7,4 @@ Oséas de Freitas Rosa | Segurança da Informação | Private Cloud |
 ##### 🌐 Atuo com hardenização de ambientes, gestão de identidade e acesso, resposta a incidentes e boas práticas de segurança.<br>
 ##### 📍 Goiano - Goiás, Brasil.<br>
 
-https://gist.github.com/oseasfr
+[![Gist](https://img.shields.io/badge/Gist-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/oseasfr)
