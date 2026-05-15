@@ -8,4 +8,3 @@ Oséas de Freitas Rosa | Segurança da Informação | Private Cloud |
 ##### 📍 Goiano - Goiás, Brasil.<br>
 
 [![Gist](https://img.shields.io/badge/Gist-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/oseasfr)
-[![Website](https://img.shields.io/badge/oseasfr.com.br-0A2540?style=for-the-badge&logoColor=white)](https://oseasfr.com.br)
